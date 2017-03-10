@@ -1,3 +1,3 @@
 import json
 
-print "hola"
+print "-----------------  Start script.py --------------- "
