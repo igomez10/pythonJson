@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "group": 1,
+      "id": "Ignacio"
+    },
+    {
+      "group": 1,
+      "id": "Alberto"
+    },
+    {
+      "group": 1,
+      "id": "Daniel"
+    }
+  ],
+  "links": [
+    {
+      "source": "Ignacio",
+      "target": "Alberto",
+      "value": 1
+    },
+    {
+      "source": "Ignacio",
+      "target": "Daniel",
+      "value": 1
+    },
+    {
+      "source": "Daniel",
+      "target": "Alberto",
+      "value": 1
+    }
+  ]
+}
